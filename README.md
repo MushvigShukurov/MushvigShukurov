@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mushvig</h1>
-<h3 align="center">A passionate web developer from Azerbaijan</h3>
+<h1 align="left">Hi 👋, I'm Mushvig</h1>
+<h3 align="left">A passionate web developer from Azerbaijan</h3>
 <img src="https://raw.githubusercontent.com/MushvigShukurov/MushvigShukurov/main/MushvigSh%20YouTube%20Banner.png" alt="#codewithmushvig">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushvigshukurov&label=Profile%20views&color=0e75b6&style=flat" alt="mushvigshukurov" /> </p>
 
@@ -26,7 +26,7 @@
 <p><a href="https://www.buymeacoffee.com/mushvigshukurov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mushvigshukurov" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushvigshukurov&show_icons=true&locale=en&layout=compact" alt="mushvigshukurov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushvigshukurov&show_icons=true&locale=en" alt="mushvigshukurov" /></p>
-
+<br/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mushvigshukurov&show_icons=true&locale=en" alt="mushvigshukurov" /></p>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushvigshukurov&" alt="mushvigshukurov" /></p>
