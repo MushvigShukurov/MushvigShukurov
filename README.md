@@ -1,6 +1,7 @@
+[logo](https://raw.githubusercontent.com/MushvigShukurov/MushvigShukurov/main/MushvigSh%20YouTube%20Banner.png)
 <h1 align="left">Hi 👋, I'm Mushvig</h1>
 <h3 align="left">A passionate web developer from Azerbaijan</h3>
-<img src="https://raw.githubusercontent.com/MushvigShukurov/MushvigShukurov/main/MushvigSh%20YouTube%20Banner.png" alt="#codewithmushvig">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushvigshukurov&label=Profile%20views&color=0e75b6&style=flat" alt="mushvigshukurov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushvigshukurov" alt="mushvigshukurov" /></a> </p>
