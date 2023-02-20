@@ -1,4 +1,4 @@
-[logo](https://raw.githubusercontent.com/MushvigShukurov/MushvigShukurov/main/MushvigSh%20YouTube%20Banner.png)
+![logo](https://raw.githubusercontent.com/MushvigShukurov/MushvigShukurov/main/MushvigSh%20YouTube%20Banner.png)
 <h1 align="left">Hi 👋, I'm Mushvig</h1>
 <h3 align="left">A passionate web developer from Azerbaijan</h3>
 
@@ -25,9 +25,17 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mushvigshukurov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mushvigshukurov" /></a></p><br><br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushvigshukurov&show_icons=true&locale=en&layout=compact" alt="mushvigshukurov" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushvigshukurov&show_icons=true&locale=en&layout=compact" alt="mushvigshukurov" />
-<br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mushvigshukurov&show_icons=true&locale=en" alt="mushvigshukurov" /></p>
-<br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mushvigshukurov&" alt="mushvigshukurov" />
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mushvigshukurov&show_icons=true&locale=en" alt="mushvigshukurov" />
+
+</p>
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mushvigshukurov&" alt="mushvigshukurov" />
+</p>
+
+
+
