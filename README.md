@@ -34,13 +34,7 @@
 <br>
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushvigshukurov&show_icons=true&locale=en&layout=compact" alt="mushvigshukurov" />
-</p>
-<br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mushvigshukurov&show_icons=true&locale=en" alt="mushvigshukurov" />
-</p>
+
 <br>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushvigshukurov&" alt="mushvigshukurov" />
